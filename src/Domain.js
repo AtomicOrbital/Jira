@@ -1,0 +1,1 @@
+export const DOMAIN = 'https://casestudy.cyberlearn.vn'
